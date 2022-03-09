@@ -185,7 +185,7 @@ export default function Home() {
         </Grid>
         <Grid item xs={1} sm={1} md={1}>
           <IconButton
-            href='https://www.linkedin.com/in/mayanksh07'
+            href='https://www.linkedin.com/in/ramanatha-tawker-3a6b4714a/'
             target='_blank'
             rel='noopener noreferrer'
           >
