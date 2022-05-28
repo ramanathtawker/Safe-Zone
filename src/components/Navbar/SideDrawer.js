@@ -92,7 +92,7 @@ export default function SideDrawer() {
           </>
         ))}
         <a
-          href='https://github.com/Mayank-Sh07/ideacon'
+          href='https://github.com/ramanathtawker/Safe-Zone/'
           target='_blank'
           rel='noopener noreferrer'
           style={{ textDecoration: "none", color: "black" }}
